@@ -3,4 +3,5 @@
 Training/bin/
 Training/.classpath
 Training/.project
-Training/*/*.prefs
+Training/.settings/org.eclipse.jdt.core.prefs
+.gitignore
