@@ -1,0 +1,6 @@
+*.log
+.metadata/*.*
+Training/bin/
+Training/.classpath
+Training/.project
+Training/*/*.prefs
