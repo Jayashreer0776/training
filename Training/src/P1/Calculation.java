@@ -5,7 +5,7 @@ public class Calculation {
 	int Num1;
 	int Num2;
 	
-	void Add(){
+	void Add1(){
 		System.out.print(Num1+Num2);
 	}
 	void Subtract(){
